@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
     <MyTitle title="La mia prima app con Vue CLI!"/>
     <MyHero img="https://scitechdaily.com/images/How-Japans-Snow-Monkeys-Cope-With-the-Cold.jpg"
       img_alt="snow-monkey"
